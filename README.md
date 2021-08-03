@@ -5,8 +5,7 @@ Files
 
 File	Description
 
-printf.c	Is a variadic function that captures the arguments from a list "va_list" and integrates all the functions to print according to a format.
-
+printf.c	Is a variadic function that takes parameters from a list called "va list" and combines all of the functions to print according to a format.
 holberton.h	header file that contains the structure and prototypes of the project
 
 Authors
